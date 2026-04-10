@@ -1,0 +1,8 @@
+{
+  "name": "VIBE",
+  "description": "A modern social media platform for sharing photos and videos, connecting with friends, and multi-language support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
